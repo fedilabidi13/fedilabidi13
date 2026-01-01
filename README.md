@@ -125,14 +125,14 @@ I'm passionate about building scalable, highly-available systems and automating 
 - Complete documentation and runbooks
 - Disaster recovery procedures
 
-[View Project →](#) *(Add your GitHub repo link)*
-
 ---
 
 ## 📜 Certifications
 
 🏅 **Certified Kubernetes Administrator (CKA)**  
-The Linux Foundation | [Verify Certification](#)
+LastName: Labidi
+Your Certificate ID Number is: LF-b7mwozufy2
+The Linux Foundation | [Verify Certification](https://training.linuxfoundation.org/certification/verify/)
 
 🎓 **Additional Training:**
 - AWS Solutions Architect (in progress)
