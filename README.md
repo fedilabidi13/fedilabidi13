@@ -10,7 +10,7 @@
 
 I'm a DevOps engineer specializing in **Kubernetes**, **cloud infrastructure**, and **automation**. After graduating in 2024, I dove into freelancing and achieved **Top Rated status on Upwork** in under a year, building production-grade infrastructure for clients worldwide.
 
-I'm passionate about building scalable, highly-available systems and automating everything. Currently seeking **full-time opportunities in Europe** where I can bring my expertise to innovative teams.
+I'm passionate about building scalable, highly-available systems and automating everything. Currently seeking **full-time opportunities** where I can bring my expertise to innovative teams.
 
 ---
 
@@ -157,7 +157,6 @@ I'm actively seeking **full-time DevOps/SRE positions ** where I can:
 - 🌍 Work with distributed teams on challenging infrastructure problems
 - 📈 Contribute to cloud-native architectures and DevOps culture
 
-**Preferred locations:** Germany, Netherlands, France, or remote-first European companies
 
 **What I bring:**
 - Real production experience (not just lab work)
@@ -208,7 +207,7 @@ approach:
 
 ## 📈 Current Focus
 
-- 🔍 Exploring opportunities in European tech companies
+- 🔍 Exploring opportunities in tech companies
 - 📖 Deepening expertise in AWS and multi-cloud architectures
 - 🎯 Contributing to open-source Kubernetes projects
 - 🛠️ Building more portfolio projects showcasing DevOps skills
@@ -216,7 +215,7 @@ approach:
 
 ---
 
-**⭐ If you're hiring or know opportunities for DevOps engineers in Europe, let's talk!**
+**⭐ If you're hiring or know opportunities for DevOps engineers, let's talk!**
 
 ---
 
